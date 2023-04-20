@@ -1,4 +1,4 @@
-This is the repository for my bachelor thesis "Comperative analysis of image classification models for Norwegian sign language recognition".
+This is the repository for my bachelor thesis "Comparative analysis of image classification models for Norwegian sign language recognition".
 
 The dataset used in our research is a selfmade NSL fingerspelling dataset containing 24 300 across 27 alphabets. We want this dataset to be available to the public so further research can be made in the field of NSL recognition. Unfortunently the dataset was to big for github, and we therefore had to upload it to Google Drive.
 
